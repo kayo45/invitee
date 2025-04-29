@@ -1,0 +1,8 @@
+$lang['Home'] = 'Home';
+$lang['Blog'] = 'Blog';
+$lang['Pages'] = 'Pages';
+$lang['This is Test Page Title'] = 'This is Test Page Title';
+$lang['Parent Menu'] = 'Parent Menu';
+$lang['1 Child Menu'] = '1 Child Menu';
+$lang['2 Child Menu'] = '2 Child Menu';
+$lang['Contact Us'] = 'Contact Us';

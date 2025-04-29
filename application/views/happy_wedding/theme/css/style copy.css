@@ -1,0 +1,120 @@
+/** green styles goes here **/
+body.green .header-style-1 .topbar {
+  background: #999700 !important;
+  border-bottom: 1px solid #b5af47 !important;
+}
+
+body.green.site-header .navigation {
+  background-color: #d7d677 !important;
+}
+
+body.green.count-down-clock {
+  background-color: #b5af47 !important;
+}
+
+body.green.invitation-section .invitation-box:before {
+  border: 5px solid #b5af47 !important;
+}
+
+body.green.couple-section .details {
+  background-color: #d7d677 !important;
+}
+
+body.green .invitation-section {
+  background-color: #999700 !important;
+}
+
+body.green .theme-btn, .theme-btn-s3, .theme-btn-s4 {
+  background-color: #999700 !important;
+}
+
+body.green .couple-section .section-title1 h2 {
+  color: #d7d677 !important;
+}
+
+body.green .contact-section .section-title1 h2 {
+  color: #d7d677 !important;
+}
+
+body.green .gallery-section .section-title1 h2 {
+  color: #d7d677 !important;
+}
+
+body.green.event-section .top-area:before {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(30%, #b2c9d3), to(transparent));
+  background: linear-gradient(top, #b2c9d3 30%, transparent);
+}
+
+body.green.event-section .event-grids h3 {
+  color: #999700 !important;
+}
+
+body.green.event-section .event-grids h3:before {
+  background: #b5af47 !important;
+}
+
+body.green.partners-section h2 {
+  background: #999700 !important;
+  top: -56px;
+}
+
+body.green.de-button {
+  border: solid 1px #b5af47 !important;
+  color: #d7d677;
+}
+
+body.green.de-button :hover {
+  color: #b5af47 !important;
+}
+
+body.green.blog-section {
+  background-color: #d7d677 !important;
+}
+
+body.green.blog-section .section-title1 h2 {
+  background: #999700 !important;
+}
+
+body.green.footer {
+  background-color: #999700 !important;
+}
+
+body.green.footer_names {
+  color: #d7d677 !important;
+}
+
+body.green a, .footer_names {
+  color: #b5af47 !important;
+}
+
+body.green.footer_menu li a.selected {
+  color: #b5af47;
+}
+
+.back-to-top:hover {
+  background-color: #999700 !important;
+}
+
+body.green .story-section .section-title1 h2 {
+  color: #d7d677 !important;
+}
+
+body.green .couple-section .details ul li {
+  float: left;
+  background-color: #999700 !important;
+  padding: 10px;
+  border-radius: 2px;
+  color: #d7d677 !important;
+}
+
+body.green .couple-section .details ul li a i {
+  color: #d7d677 !important;
+}
+
+body.green .couple-section .details h2 {
+  color: #999700 !important;
+}
+
+body.green .story-section .details h3 {
+  color: #999700 !important;
+}

@@ -1,0 +1,119 @@
+@media (max-width: 991px) {
+	
+}
+@media (max-width: 768px) {
+	.event-section .event-container{
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.couple-section .about_topsign{
+		display:none;
+	}
+	.partners-section .grid {
+		min-height: 185px;
+		max-height: 185px;
+	}
+	.couple-section p {
+    	text-align: center;
+	}
+	.invitation-section .invitation-box {
+		max-width: 450px;
+	}
+	.event-section .event-grids h3 {
+		font-size: 2.13333rem;
+	}
+	.relative-section .grid .social-links > li + li {
+		margin-left: 10px;
+	}
+	.relative-section .grid .details {
+		min-height: 130px;
+	}
+	.partners-section .grid .gift_area img{
+		height: 135px;
+	}
+	.partners-section .grid{
+		margin-left:0px;
+	}
+	.partners-section .grid:nth-child(odd){
+		border-right:0px none;
+	}
+	
+	section .section-title-new h2 {
+		font-size: 28px;
+	}
+	section .section-title-new p {
+		font-size: 24px;
+	}
+	.couple-section h2 {
+		font-size: 26px;
+	}
+	.couple-section span.names_titles {
+		font-size: 18px;
+	}
+	.couple-section .couple-signature {
+		font-size: 42px;
+	}
+	.story-section .details h3.itl_fam {
+		font-size: 42px !important;
+	}
+	.blog-section .blog-grids .grid {
+		width: calc((100% - 45px) / 3);
+	}
+	.blog-section .blog-grids h3 {
+		text-align: center;
+	}
+	.header-style-1 .site-logo h1 {
+    	font-size: 55px !important;
+    }
+	.footer_socials img{
+		width: 52px;
+	}
+	.blog-sidebar {
+		margin-top: 0px;
+		max-width: 100%;
+	}
+	.blog-sidebar > .widget + .widget {
+		margin-top: 40px;
+	}
+	.sticky-header.sticky-on .mobile-sticky-logo{
+		display:block;
+	}
+}
+@media (max-width: 667px) {
+{
+	.partners-section .grid {
+		min-height: 285px;
+		max-height: 285px;
+	}
+	
+}
+@media (max-width: 450px) {
+	.count-down-clock #clock .box > div {
+		font-size: 34px !important;
+	}
+	.relative-section .tab-content .grid {
+		padding: 0;
+	}
+	.relative-section .grid .social-links > li + li {
+		margin-left: 20px;
+	}
+	.blog-section .blog-grids {
+		margin: 0;
+	}
+	.blog-section .blog-grids .grid {
+		width: 100%;
+		margin: 0 0 30px 0;
+	}
+	.shares li.shareslabel {
+		border-right: 0;
+		width: 100%;
+		border-bottom: 1px solid #fff;
+		text-align:center;
+	}
+	.shares li:last-child {
+		border-right: 0px none;
+	}
+	.couple-section .about_pic img{
+		height: auto;
+	}
+}

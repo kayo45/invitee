@@ -1,0 +1,29 @@
+<?php 
+
+$lang['Gifts'] = '';
+$lang['Gallery'] = '';
+$lang['People'] = '';
+$lang['Events'] = '';
+$lang['Story'] = '';
+$lang['Couples'] = '';
+$lang['RSVP'] = '';
+$lang['Phone'] = '';
+$lang['Address'] = '';
+$lang['Contact Info'] = '';
+$lang['Send Message'] = '';
+$lang['Message'] = '';
+$lang['Subject'] = '';
+$lang['Email'] = '';
+$lang['Full Name'] = '';
+$lang['About Us'] = '';
+$lang['Blogs'] = '';
+$lang['Recent Blog'] = '';
+$lang['Blog Categories'] = '';
+$lang['Contact Us'] = '';
+$lang['2 Child Menu'] = '';
+$lang['1 Child Menu'] = '';
+$lang['Parent Menu'] = '';
+$lang['This is Test Page Title'] = '';
+$lang['Pages'] = '';
+$lang['Blog'] = '';
+$lang['Home'] = '';

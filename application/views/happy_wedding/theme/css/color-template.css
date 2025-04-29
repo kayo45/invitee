@@ -1,0 +1,295 @@
+/** blue2 styles goes here **/
+.header-style-1 .topbar {
+  background: #4b8ae9 !important;
+  border-bottom: 1px solid #347BE6 !important;
+}
+
+.header-style-1 .site-logo h1 {
+  color: white !important;
+  font-weight: 400;
+  font-size: 54px !important;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+  background-color: #fff !important;
+}
+
+.header-style-1 .site-logo h1 + span:before {
+  background-color: #504EFF !important;
+}
+
+.header-style-1 .site-logo h1 + span:after {
+  background-color: #504EFF !important;
+}
+
+.header-style-1 .site-logo h1 + span {
+  color: #fff;
+}
+
+.site-header #navbar > ul li a {
+  text-decoration: none;
+  color: #fff !important;
+}
+
+.site-header #navbar > ul li.active a {
+  text-decoration: none;
+  color: #504EFF !important;
+}
+
+.site-header #navbar > ul .sub-menu {
+  background-color: #347BE6 !important;
+  border-top: 2px solid #5A16F5 !important;
+}
+
+/*
+.site-header #navbar > ul li a:hover, .site-header #navbar > ul li a:focus {
+    text-decoration: none;
+    color: $white-color !important;
+}
+*/
+.hero-slider .swiper-pagination-bullet-active {
+  color: #fff;
+  background: #504EFF;
+}
+
+.site-header .navigation {
+  background-color: #504EFF !important;
+}
+
+.count-down-clock #clock .box {
+  /*
+    background-color: lighten($darker-color,10%);
+    */
+  background-color: #504EFF;
+}
+
+.invitation-section .invitation-box:before {
+  border: 5px solid #347BE6 !important;
+}
+
+.couple-section .details {
+  background-color: #504EFF !important;
+}
+
+.couple-section .details .inner h2 {
+  color: #fff;
+}
+
+.couple-section .details .inner p {
+  color: #fff;
+}
+
+.btn-switcher, .btn-default {
+  background-color: #5A16F5 !important;
+  padding-left: 24px;
+  color: #fff !important;
+}
+
+span.toggle-handle.btn.btn-default {
+  background: #fff !important;
+}
+
+.invitation-section {
+  background-color: #5A16F5 !important;
+}
+
+.invitation-box .inner a {
+  color: #fff !important;
+}
+
+.theme-btn, .theme-btn-s3, .theme-btn-s4 {
+  background-color: #5A16F5 !important;
+}
+
+.event-section .top-area:before {
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(10%, #504EFF), to(transparent));
+  background: linear-gradient(bottom, #504EFF 10%, transparent);
+}
+
+.event-section .event-grids h3 {
+  color: #5A16F5 !important;
+}
+
+.event-section .event-grids h3:before {
+  background: #504EFF !important;
+}
+
+.de-button:hover {
+  background-color: #347BE6 !important;
+  border-color: #504EFF !important;
+  color: #fff !important;
+}
+
+.de-button {
+  border: solid 1px #504EFF !important;
+  color: #347BE6;
+}
+
+.blog-section.bg-none {
+  background-color: #fff !important;
+}
+
+.blog-section.bg-none .section-title1 h2 {
+  color: #5A16F5 !important;
+}
+
+.blog-section.bg-none .details h3 a {
+  color: #5A16F5 !important;
+}
+
+.blog-section.bg-none .details .date i {
+  color: #5A16F5 !important;
+}
+
+.blog-section.bg-dark {
+  background-color: #504EFF !important;
+}
+
+section .section-title-new h2 {
+  color: #504EFF !important;
+}
+
+.blog-section.bg-dark .details h3 a {
+  color: #fff !important;
+}
+
+.blog-section.bg-dark .details .date i {
+  color: #fff !important;
+}
+
+.blog-section.bg-light {
+  background-color: #347BE6 !important;
+}
+
+.blog-section.bg-light .section-title1 h2 {
+  color: #fff !important;
+}
+
+.blog-section.bg-light .details h3 a {
+  color: #fff !important;
+}
+
+.blog-section.bg-light .details .date i {
+  color: #fff !important;
+}
+
+.back-to-top {
+  background-color: #347BE6;
+  border: 2px solid #504EFF;
+}
+
+.story-section ul:after {
+  background: #347BE6;
+}
+
+.story-section ul > li:last-child:before {
+  background: #347BE6;
+}
+
+.story-section ul li:before {
+  background: #fff;
+}
+
+.story-section ul li:nth-child(odd):after {
+  border-bottom: 2px dashed #5A16F5;
+}
+
+.story-section ul li:nth-child(even):after {
+  border-bottom: 2px dashed #5A16F5;
+}
+
+.story-section ul:before {
+  background: #504EFF;
+}
+
+.contact-section .contact-form:before {
+  border: 2px solid #347BE6;
+}
+
+.contact-section .contact-form {
+  border: 2px solid #504EFF;
+}
+
+.footer {
+  background-color: #5A16F5 !important;
+}
+
+.footer_names {
+  color: #347BE6 !important;
+}
+
+a, .footer_names {
+  color: #504EFF !important;
+}
+
+.footer_menu li a.selected {
+  color: #504EFF !important;
+}
+
+.back-to-top:hover {
+  background-color: #5A16F5 !important;
+}
+
+.couple-section .details ul li {
+  float: left;
+  background-color: #fff !important;
+  padding: 10px;
+  border-radius: 2px;
+  color: #347BE6 !important;
+}
+
+.couple-section .details ul li a i {
+  color: #000 !important;
+}
+
+body.green .story-section .details h3 {
+  color: #5A16F5 !important;
+}
+
+p {
+  color: #000;
+}
+
+.swiper-pagination-bullet-active {
+  background: #504EFF !important;
+}
+
+.preloader .middle .fi:before {
+  color: #504EFF !important;
+}
+
+.site-header .navbar-header button {
+  background-color: #347BE6;
+}
+
+.small-nav {
+  background-color: #347BE6 !important;
+}
+
+.active a {
+  color: #fff;
+}
+
+.form-control {
+  border: 0.5px solid #5A16F5 !important;
+}
+
+.story-section .date {
+  color: #000;
+}
+
+.couple-section .thumb_read_more li a {
+  background-color: #504EFF !important;
+}
+
+.couple-section .thumb_read_more li a:hover {
+  background-color: #347BE6 !important;
+}
+
+.couple-section .couple-area .names_titles, .couple-section .about_topsign {
+  color: #504EFF !important;
+}
+
+.couple-section .about_pic {
+  background-color: #504EFF;
+}
