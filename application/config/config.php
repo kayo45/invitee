@@ -207,13 +207,12 @@ $config['routing'] = false;
 |	http://tutsnare.com/remove-index-php-from-url-codeigniter/
 */
 //$config['index_page'] = 'index.php';
+
 $config['index_page'] = '';
 
-$config['theme'] = 'happy_wedding';
+// $config['theme'] = 'happy_wedding';
 
-
-
-
+$config['theme'] = 'theme_babun';
 
 /*
 |--------------------------------------------------------------------------

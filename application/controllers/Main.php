@@ -35,7 +35,7 @@ class Main extends MY_Controller {
 
 		$data['page_title'] = "Home";
 
-		$this->load->view("$theme/header",$data);
+		$this->load->view("$theme/index",$data);
 
 	}
 
@@ -69,7 +69,7 @@ class Main extends MY_Controller {
 
 		$data['content'] = "$theme/register";
 
-		$this->load->view("$theme/header",$data);
+		$this->load->view("$theme/index",$data);
 
 	}
 
